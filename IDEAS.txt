@@ -1,0 +1,14 @@
+screen turns red when low on hp
+
+shield around player (radius od 30)
+ 
+at end (after boss) earth is destroyed, you are bad  guy
+
+laser(constantly gets thinner and then thicker)
+ship weopon upgrades
+
+return to main menue option when gameover
+
+powerups
+
+https://gamedevelopment.tutsplus.com/tutorials/make-a-neon-vector-shooter-in-xna-basic-gameplay--gamedev-9859
